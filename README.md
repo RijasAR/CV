@@ -6,4 +6,5 @@
   <p> HTNL, CSS, JavaScript,Adobe XD, Responsive Web Design</p>
   <h4> Education</h4>
   <p> BICT hons, University of Vavuniya</p>
+  <a> href="https://github.com/RijasAR/CV/edit/main/README.md>My Projaect CV URL</a>
 </html>
